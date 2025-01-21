@@ -1,11 +1,8 @@
 i am added
-<<<<<<< HEAD
-
 
 added 3
 
 added 4
 
 
-=======
->>>>>>> parent of c17ddf3 (commit 3)
+q
